@@ -81,7 +81,3 @@ SkinCare Pro is a Single Page Application (SPA) designed to showcase advanced co
 🔹Swiper.js
 
 🔹React Icons
-
-🔹ESLint
-
-📂 Project Architecture src/ │ ├── assets/ ├── component/ │ ├── Layout Components (Navbar, Footer) │ ├── Core Sections (Hero, About, Services) │ ├── Appointment & Contact │ └── Individual Treatment Pages │ ├── App.jsx (Routing Configuration) ├── main.jsx (Application Entry) └── Styles
