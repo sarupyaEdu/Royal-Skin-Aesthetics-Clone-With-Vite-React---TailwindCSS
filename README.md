@@ -1,17 +1,87 @@
-# React + Vite
+📌 Portfolio Description
 
-This template provides a minimal setup to get React working in Vite with HMR and some ESLint rules.
+SkinCare Pro is a fully responsive, production-ready frontend web application developed for a modern dermatology and aesthetic clinic.
 
-Currently, two official plugins are available:
+The project demonstrates strong skills in:
 
-- [@vitejs/plugin-react](https://github.com/vitejs/vite-plugin-react/blob/main/packages/plugin-react) uses [Babel](https://babeljs.io/) (or [oxc](https://oxc.rs) when used in [rolldown-vite](https://vite.dev/guide/rolldown)) for Fast Refresh
-- [@vitejs/plugin-react-swc](https://github.com/vitejs/vite-plugin-react/blob/main/packages/plugin-react-swc) uses [SWC](https://swc.rs/) for Fast Refresh
+🔹Component-based architecture using React
 
-## React Compiler
+🔹Advanced routing with React Router
 
-The React Compiler is not enabled on this template because of its impact on dev & build performances. To add it, see [this documentation](https://react.dev/learn/react-compiler/installation).
+🔹Responsive UI design using Tailwind CSS
 
-## Expanding the ESLint configuration
+🔹Animation integration using Framer Motion
 
-If you are developing a production application, we recommend using TypeScript with type-aware lint rules enabled. Check out the [TS template](https://github.com/vitejs/vite/tree/main/packages/create-vite/template-react-ts) for information on how to integrate TypeScript and [`typescript-eslint`](https://typescript-eslint.io) in your project.
-"# Royal-Skin-Aesthetics-Clone-With-Vite-React---TailwindCSS" 
+🔹Scalable folder structure for real-world applications
+
+🔹Clean and maintainable code practices
+
+🔹This project reflects my ability to build professional, client-ready healthcare websites with performance, scalability, and user experience in mind.
+
+🚀 Project Overview
+
+SkinCare Pro is a Single Page Application (SPA) designed to showcase advanced cosmetic and dermatology treatments including:
+
+🔹Laser Treatments
+
+🔹Botox
+
+🔹PRP Therapy
+
+🔹Dermal Fillers
+
+🔹Hydrafacial
+
+🔹Fat Reduction
+
+🔹HIFU
+
+🔹Thread Lift
+
+🔹Chemical Peels
+
+🔹And many more
+
+🔹Each service has a dedicated page with detailed information, creating a real-world clinic experience.
+
+✨ Key Features
+
+🔹Fully responsive design (Mobile, Tablet, Desktop)
+
+🔹Modern UI with Tailwind CSS
+
+🔹Smooth navigation using React Router
+
+🔹Individual service detail pages
+
+🔹Appointment booking section
+
+🔹Contact page
+
+🔹Scroll-to-top functionality
+
+🔹Smooth animations (Framer Motion)
+
+🔹Interactive sliders (Swiper)
+
+🔹Clean, scalable component architecture
+
+🛠️ Technology Stack
+
+🔹React 19
+
+🔹Vite
+
+🔹React Router DOM
+
+🔹Tailwind CSS
+
+🔹Framer Motion
+
+🔹Swiper.js
+
+🔹React Icons
+
+🔹ESLint
+
+📂 Project Architecture src/ │ ├── assets/ ├── component/ │ ├── Layout Components (Navbar, Footer) │ ├── Core Sections (Hero, About, Services) │ ├── Appointment & Contact │ └── Individual Treatment Pages │ ├── App.jsx (Routing Configuration) ├── main.jsx (Application Entry) └── Styles
